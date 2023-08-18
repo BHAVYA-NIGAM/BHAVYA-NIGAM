@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BHAVYA-NIGAM
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... C 
+- 🌱 I’m currently learning ... JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
